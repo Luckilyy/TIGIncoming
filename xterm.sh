@@ -1,4 +1,4 @@
 while [ 1 > 0 ]
 do
-xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm &
+nohup xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm -e xterm &
 done
